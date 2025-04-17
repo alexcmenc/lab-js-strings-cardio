@@ -87,4 +87,4 @@ const string4 = "zEAWrTC9EgtxmK9w1";
 console.log(string4.length); //string length starts on 0 --> last character is total - 1.
 // b) Print the last character in the string
 // Your code here ...
-console.log(string4[16]);
+console.log(string4[16]); // 16 is the last character
